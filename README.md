@@ -1,0 +1,2 @@
+# big-data-analytics
+ASSYST’s PanBI Big Data Analytics platform has proven to be a valuable tool for gaining actionable business intelligence and insights by quickly and accurately analyzing structured, semi-structured and multi structured data. PanBI is self-service based,  rapidly deployable, business user friendly data discovery platform with interactive data preparation, data analysis as well as data visualization interfaces that reliably interpret important information.
